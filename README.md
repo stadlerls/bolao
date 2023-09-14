@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="NLW Copa" src=".github/logo.svg" />
+  <img alt="NLW Copa" src="logo.svg" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 </p>
 
-<img src=".github/web.png">
+<img src="web.png">
 
 ## 💻 Projeto
 
